@@ -94,3 +94,12 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
+
+##### commit 제외파일 #####
+.classpath
+.gitignore
+/Third_SemiPro/src/main/webapp/WEB-INF/web.xml
+/Third_SemiPro/src/main/webapp/WEB-INF/command.properties
+/Third_SemiPro/src/main/java/common/controller/AbstractController.java
+/Third_SemiPro/src/main/java/common/controller/FrontController.java
+/Third_SemiPro/src/main/java/common/controller/InterCommand.java
